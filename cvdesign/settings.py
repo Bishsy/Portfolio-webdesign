@@ -25,7 +25,7 @@ SECRET_KEY = '4$crujbhbsih0^fp696afz%)==l_+8y9k!c+u#=mmmjie^8yrn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mycvdesign.herokuapp.com', '127.0.0.1:8000']
 
 
 # Application definition
