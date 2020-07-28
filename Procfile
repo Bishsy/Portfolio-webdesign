@@ -1,0 +1,1 @@
+web: gunicorn cvdesign.wsgi --log-file -
